@@ -1,5 +1,15 @@
 # CSV Runner Dashboard
 
+<!-- Replace the src values with your actual image paths -->
+<p align="center">
+  <img src="public/dashboard-overview.png" alt="Dashboard Overview" width="70%">
+</p>
+
+<p align="center">
+  <img src="public/runner-dashboard.png" alt="Login Screen" width="45%">
+  
+</p>
+
 ## Project Overview
 Challenge: CSV Runner Dashboard
 Built: A Next.js dashboard that parses CSV files with running data and displays visualizations and metrics for overall and per-person views.
